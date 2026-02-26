@@ -1,3 +1,1 @@
-# Dolgovyaz
-
 ![Шрифт](image.jpg)
